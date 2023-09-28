@@ -16,26 +16,26 @@ which are one of the most common combinations in clinics.
 
 ## Key Features
 
-* Focused performance management
+* **Focused performance management**
   * Focused practitioner(s)
   * Focused specific performance of practitioner
 
-* Painless performance data access
+* **Painless performance data access**
   * On demand data querying with custom date range, practitioner(s), business(es), appointment type(s), etc.
   * Automatic reports
   * Data explaination
   * Data visualisation
 
-* Inteliigent business assistant
+* **Inteliigent business assistant**
   * Detecting operational issues
   * Suggestions for business
 
-* Data accuracy and transparency
+* **Data accuracy and transparency**
   * 100% matching on common metrics with Cliniko
   * Data drill down with links to original data 
   * Data access for BI tools integration
 
-* Data security and privacy
+* **Data security and privacy**
   * Isolating clinic data within clinic's own private cloud
   * No patient data
 
@@ -44,17 +44,20 @@ which are one of the most common combinations in clinics.
 
 **Clinic Bees** is offering 3 different plans to meet the different needs from differen clinics.
 
-* Basic Plan
+* **Basic Plan**
+
   This is the plan providing the basic functionality of the performance management.
   It could be the good starting point of small clinics with casual performance management needs
   while want to get performance data access easier.
 
-* Standard Plan
+* **Standard Plan**
+
   This is the plan providing the full functionality of the performance management.
   It's a good fit to variety sizes of clinics who want to better manage their practitioners
   and drive better business results. 
 
-* Professional Plan
+* **Professional Plan**
+
   This is the plan providing extra functionality beyond performance management.
   It meets the needs of clinics who want to build data driven business systems, so that the 
   risks and forecast in operation could be better managed. 
