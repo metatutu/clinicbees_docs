@@ -4,8 +4,9 @@
 * [**BASIC USAGE**](/basic)
 
 * **REFERENCE**
-    * [Commands](reference/commands)
-        * [Basic Settings](reference/commands_config)
-        * [System](reference/commands_sys)
+  * Commands
+    * [Overview](reference/commands)
+    * [System Management](reference/commands_sys)
+    * [Basic Settings](reference/commands_config)
 
 

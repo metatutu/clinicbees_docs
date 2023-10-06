@@ -2,7 +2,7 @@
 
 **Description**
 
-Install Cliniko API key, so that system could access performance data from the Cliniko account.
+Install Cliniko API key, so that system could prepare performance data from Cliniko.
 
 >[!TIP]
 >Please take reference to [Cliniko's article](https://help.cliniko.com/en/articles/1023957-generate-a-cliniko-api-key)
@@ -10,8 +10,8 @@ to obtain a valid Cliniko API key.
 
 This command can be called by the Owner role only and it could be called only once when system is initialized.
 
-Once the Cliniko API key is installed, it will take 2-6 hours to pull data from linked Cliniko account
-before users could access performance data.
+Once the Cliniko API key is installed, it will take 2-8 hours to prepare performance data from linked Cliniko account
+before users could access it.
 
 **Syntax**
 ```text
@@ -39,12 +39,11 @@ install-cliniko MS********czMDExMDYxMDM3NjQ0LVA2NDhlM2ViQ05xd2ZIOHd4dFNyMTRuaU5h
 
 ### health-check
 
-Run a system diagnostics to see whether system is up running normally.
+Run a system diagnostics to check the system status.
 
 >[!NOTE]
->This health check is depending on the command responding system is still running.
-If the command is not even responded including reactions, please call customer support to resolve
-the issue.
+>This health check is depending on the command handling module up running.
+>If there is no response even reaction on the command you sent, please contact customer support to get help.
 
 **Syntax**
 ```text
@@ -59,7 +58,7 @@ health-check
 **Roles Permission:**
 &nbsp;&nbsp;:fas fa-check-circle: Owner
 &nbsp;&nbsp;:fas fa-check-circle: Admin
-&nbsp;&nbsp;:fas fa-circle: User
+&nbsp;&nbsp;:fas fa-check-circle: User
 
 **Cost of Credit Points:** &nbsp;&nbsp;Free
 
@@ -69,7 +68,7 @@ health-check
 
 **Description**
 
-List all users and their roles.
+List users and their roles.
 
 **Syntax**
 ```text
@@ -86,22 +85,25 @@ list-users
 &nbsp;&nbsp;:fas fa-check-circle: Admin
 &nbsp;&nbsp;:fas fa-check-circle: User
 
+
+**Cost of Credit Points:** &nbsp;&nbsp;Free
+
 --------------------------------------------------------------------------------
 
 ### assign-admin
 
 **Description**
 
-Assign Admin role to a Slack user.
+Assign Admin role to one or multiple Slack users.
 
 **Syntax**
 ```text
-assign-admin <Slack user>
+assign-admin <Slack users>
 ```
 
 **Example**
 ```text
-assign-admin @Dennis
+assign-admin @Dennis @Anna
 ```
 
 **Availability:** 
@@ -122,16 +124,16 @@ assign-admin @Dennis
 
 **Description**
 
-Revoke Admin role from a Slack user.
+Revoke Admin role from one or multiple Slack users.
 
 **Syntax**
 ```text
-revoke-admin <Slack user>
+revoke-admin <Slack users>
 ```
 
 **Example**
 ```text
-revoke-admin @Dennis
+revoke-admin @Dennis @Anna
 ```
 
 **Availability:** 
