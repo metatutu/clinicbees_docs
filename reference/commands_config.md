@@ -24,6 +24,40 @@
 
 --------------------------------------------------------------------------------
 
+### list-practitioners
+
+**Description**
+
+List practitioners from the linked Cliniko account and the mapping status with the Slack users.
+
+**Syntax**
+```text
+list-practitioners
+```
+
+**Example**
+```text
+# List active practitioners only.
+list-practitioners
+
+# List all practitioners including inactive ones.
+list-practitioners all
+```
+
+**Availability:** 
+&nbsp;&nbsp;:fas fa-check-square: Basic Plan
+&nbsp;&nbsp;:fas fa-check-square: Standard Plan
+&nbsp;&nbsp;:fas fa-check-square: Professional Plan  
+
+**Roles Permission:**
+&nbsp;&nbsp;:fas fa-check-circle: Owner
+&nbsp;&nbsp;:fas fa-check-circle: Admin
+&nbsp;&nbsp;:fas fa-check-circle: User
+
+**Cost of Credit Points:** &nbsp;&nbsp;Free
+
+--------------------------------------------------------------------------------
+
 ### map-practitioner
 
 **Description**
@@ -55,12 +89,12 @@ map-practitioner <practitioner name>=
 map-practitioner auto
 
 # Map practitioner Izabella Solomon and Jackie Newman (names on Cliniko) to their Slack names.
-map-practitioner Izabella Solomon=@Bella, Jackie Newman=@Jackie 
+map-practitioner Izabella Solomon = @Bella, Jackie Newman = @Jackie 
 
 # You may also send the command in a multi-line message to make it clearer.
 map-practitioner
-Izabella Solomon=@Bella, 
-Jackie Newman=@Jackie 
+Izabella Solomon = @Bella, 
+Jackie Newman = @Jackie 
 
 # Clear mapping of practitioner Jackie Newman.
 map-practitioner Jackie Newman=
@@ -80,15 +114,63 @@ map-practitioner Jackie Newman=
 
 --------------------------------------------------------------------------------
 
-### list-practitioners
+### show-focus
 
 **Description**
 
-List all practitioners from the linked Cliniko account and the mapping status with the Slack users.
+Display the focused practitioners and metrics of the current channel.
+
+_**Clinic Bees**_ is using Slack channel to manage performance of specific practitioners and key metrics,
+so that the management and actions are focused.
+
+This command could be called in a channel only.
 
 **Syntax**
 ```text
-list-practitioners
+show-focus
+```
+
+**Availability:** 
+&nbsp;&nbsp;:fas fa-check-square: Basic Plan
+&nbsp;&nbsp;:fas fa-check-square: Standard Plan
+&nbsp;&nbsp;:fas fa-check-square: Professional Plan  
+
+**Roles Permission:**
+&nbsp;&nbsp;:fas fa-check-circle: Owner
+&nbsp;&nbsp;:fas fa-check-circle: Admin
+&nbsp;&nbsp;:fas fa-check-circle: User
+
+**Cost of Credit Points:** &nbsp;&nbsp;Free
+
+--------------------------------------------------------------------------------
+
+### add-focus
+
+**Description**
+
+Add the practitioners and/or metrics to be focused in the current channel.
+
+The syntax of command is very flexible, you could use practitioner's name, mapped user or some
+statements as "All Practitioners", "All Active Practitioners", "All Inactive Practitioners", etc.
+to specify the practitioners to be focused.
+
+The metrics should be listed with their correct ids.
+
+This command could be called in a channel only.
+It could be called by Owner or Admin, but not general users.
+
+**Syntax**
+```text
+add-focus <practitioners> <metrics>
+```
+
+**Example**
+```text
+# add Jackie Newman and Izabella Solomon as focused practitioners and ia_arrived as focused metric
+add-focus Jackie Newman @Bella ia_arrived
+
+# add all active practitioners as focused practitioners and focus on ia_arrived and ia_revenue metrics
+add-focus ia_arrived, ia_revenue from all active practitioners
 ```
 
 **Availability:** 
@@ -103,23 +185,42 @@ list-practitioners
 
 **Cost of Credit Points:** &nbsp;&nbsp;Free
 
-
 --------------------------------------------------------------------------------
 
-### focus-practitioners
+### remove-focus
+
+**Description**
+
+Remove the practitioners and/or metrics to be focused in the current channel.
+
+It's taking reveresed action of `add-focus` with the same syntax and rules.
+
+This command could be called in a channel only.
+It could be called by Owner or Admin, but not general users.
 
 **Syntax**
 ```text
-channel-practitioners <Slack user 1>,<Slack user 2>...
+remove-focus <practitioners> <metrics>
 ```
 
---------------------------------------------------------------------------------
-
-### focus-metrics
-
-**Syntax**
+**Example**
 ```text
-channel-focus <metric 1>,<metric 2>...
+# remove Jackie Newman and Izabella Solomon from focused practitioners and ia_arrived from focused metrics
+remove-focus Jackie Newman @Bella ia_arrived
+
+# remove all inactive practitioners from focused practitioners
+remove-focus all inactive practitioners
 ```
 
-### show-focus
+**Availability:** 
+&nbsp;&nbsp;:fas fa-check-square: Basic Plan
+&nbsp;&nbsp;:fas fa-check-square: Standard Plan
+&nbsp;&nbsp;:fas fa-check-square: Professional Plan  
+
+**Roles Permission:**
+&nbsp;&nbsp;:fas fa-check-circle: Owner
+&nbsp;&nbsp;:fas fa-check-circle: Admin
+&nbsp;&nbsp;:fas fa-circle: User
+
+**Cost of Credit Points:** &nbsp;&nbsp;Free
+
