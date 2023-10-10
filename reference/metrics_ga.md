@@ -76,6 +76,45 @@ Attended patients of group appointments.
 
 --------------------------------------------------------------------------------
 
+### ga_cancelled_rate
+
+**Description**
+
+Group appointment cancellation rate.
+
+**Availability:** 
+&nbsp;&nbsp;:fas fa-check-square: Basic Plan
+&nbsp;&nbsp;:fas fa-check-square: Standard Plan
+&nbsp;&nbsp;:fas fa-check-square: Professional Plan  
+
+--------------------------------------------------------------------------------
+
+### ga_dna_rate
+
+**Description**
+
+Group appointment did not arrive rate.
+
+**Availability:** 
+&nbsp;&nbsp;:fas fa-check-square: Basic Plan
+&nbsp;&nbsp;:fas fa-check-square: Standard Plan
+&nbsp;&nbsp;:fas fa-check-square: Professional Plan  
+
+--------------------------------------------------------------------------------
+
+### ga_attended_rate
+
+**Description**
+
+Group appointment attendance rate.
+
+**Availability:** 
+&nbsp;&nbsp;:fas fa-check-square: Basic Plan
+&nbsp;&nbsp;:fas fa-check-square: Standard Plan
+&nbsp;&nbsp;:fas fa-check-square: Professional Plan  
+
+--------------------------------------------------------------------------------
+
 ### ga_patients
 
 **Description**
@@ -159,6 +198,32 @@ New patients/clients of the appointment type from group appointments.
 **Description**
 
 New patients/clients of the service type from group appointments.
+
+**Availability:** 
+&nbsp;&nbsp;:fas fa-check-square: Basic Plan
+&nbsp;&nbsp;:fas fa-check-square: Standard Plan
+&nbsp;&nbsp;:fas fa-check-square: Professional Plan  
+
+--------------------------------------------------------------------------------
+
+### ga_without_upcoming
+
+**Description**
+
+Without upcoming patients/clients from group appointments.
+
+**Availability:** 
+&nbsp;&nbsp;:fas fa-check-square: Basic Plan
+&nbsp;&nbsp;:fas fa-check-square: Standard Plan
+&nbsp;&nbsp;:fas fa-check-square: Professional Plan  
+
+--------------------------------------------------------------------------------
+
+### ga_rebook_rate
+
+**Description**
+
+Rebook rate of group appointments.
 
 **Availability:** 
 &nbsp;&nbsp;:fas fa-check-square: Basic Plan
@@ -367,6 +432,58 @@ Appointment revenue of services from group appointments.
 **Description**
 
 Appointment revenue of others from group appointments.
+
+**Availability:** 
+&nbsp;&nbsp;:fas fa-check-square: Basic Plan
+&nbsp;&nbsp;:fas fa-check-square: Standard Plan
+&nbsp;&nbsp;:fas fa-check-square: Professional Plan
+
+--------------------------------------------------------------------------------
+
+### ga_arev
+
+**Description**
+
+Total appointment revenue from group appointments.
+
+**Availability:** 
+&nbsp;&nbsp;:fas fa-check-square: Basic Plan
+&nbsp;&nbsp;:fas fa-check-square: Standard Plan
+&nbsp;&nbsp;:fas fa-check-square: Professional Plan
+
+--------------------------------------------------------------------------------
+
+### ga_arev_cliniko
+
+**Description**
+
+Total appointment revenue from group appointments (As Cliniko).
+
+**Availability:** 
+&nbsp;&nbsp;:fas fa-check-square: Basic Plan
+&nbsp;&nbsp;:fas fa-check-square: Standard Plan
+&nbsp;&nbsp;:fas fa-check-square: Professional Plan
+
+--------------------------------------------------------------------------------
+
+### ga_arev_average
+
+**Description**
+
+Average appointment revenue from group appointments.
+
+**Availability:** 
+&nbsp;&nbsp;:fas fa-check-square: Basic Plan
+&nbsp;&nbsp;:fas fa-check-square: Standard Plan
+&nbsp;&nbsp;:fas fa-check-square: Professional Plan
+
+--------------------------------------------------------------------------------
+
+### ga_arev_average_cliniko
+
+**Description**
+
+Average appointment revenue from group appointments (As Cliniko).
 
 **Availability:** 
 &nbsp;&nbsp;:fas fa-check-square: Basic Plan

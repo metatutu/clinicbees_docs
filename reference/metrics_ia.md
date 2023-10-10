@@ -50,6 +50,45 @@ Attended individual appointments.
 
 --------------------------------------------------------------------------------
 
+### ia_cancelled_rate
+
+**Description**
+
+Individual appointment cancellation rate.
+
+**Availability:** 
+&nbsp;&nbsp;:fas fa-check-square: Basic Plan
+&nbsp;&nbsp;:fas fa-check-square: Standard Plan
+&nbsp;&nbsp;:fas fa-check-square: Professional Plan  
+
+--------------------------------------------------------------------------------
+
+### ia_dna_rate
+
+**Description**
+
+Individual appointment did not arrive rate.
+
+**Availability:** 
+&nbsp;&nbsp;:fas fa-check-square: Basic Plan
+&nbsp;&nbsp;:fas fa-check-square: Standard Plan
+&nbsp;&nbsp;:fas fa-check-square: Professional Plan  
+
+--------------------------------------------------------------------------------
+
+### ia_attended_rate
+
+**Description**
+
+Individual appointment attendance rate.
+
+**Availability:** 
+&nbsp;&nbsp;:fas fa-check-square: Basic Plan
+&nbsp;&nbsp;:fas fa-check-square: Standard Plan
+&nbsp;&nbsp;:fas fa-check-square: Professional Plan  
+
+--------------------------------------------------------------------------------
+
 ### ia_patients
 
 **Description**
@@ -133,6 +172,32 @@ New patients/clients of the appointment type from individual appointments.
 **Description**
 
 New patients/clients of the service type from individual appointments.
+
+**Availability:** 
+&nbsp;&nbsp;:fas fa-check-square: Basic Plan
+&nbsp;&nbsp;:fas fa-check-square: Standard Plan
+&nbsp;&nbsp;:fas fa-check-square: Professional Plan  
+
+--------------------------------------------------------------------------------
+
+### ia_without_upcoming
+
+**Description**
+
+Without upcoming patients/clients from individual appointments.
+
+**Availability:** 
+&nbsp;&nbsp;:fas fa-check-square: Basic Plan
+&nbsp;&nbsp;:fas fa-check-square: Standard Plan
+&nbsp;&nbsp;:fas fa-check-square: Professional Plan  
+
+--------------------------------------------------------------------------------
+
+### ia_rebook_rate
+
+**Description**
+
+Rebook rate of individual appointments.
 
 **Availability:** 
 &nbsp;&nbsp;:fas fa-check-square: Basic Plan
@@ -341,6 +406,58 @@ Appointment revenue of services from indivdual appointments.
 **Description**
 
 Appointment revenue of others from indivdual appointments.
+
+**Availability:** 
+&nbsp;&nbsp;:fas fa-check-square: Basic Plan
+&nbsp;&nbsp;:fas fa-check-square: Standard Plan
+&nbsp;&nbsp;:fas fa-check-square: Professional Plan  
+
+--------------------------------------------------------------------------------
+
+### ia_arev
+
+**Description**
+
+Total appointment revenue from individual appointments.
+
+**Availability:** 
+&nbsp;&nbsp;:fas fa-check-square: Basic Plan
+&nbsp;&nbsp;:fas fa-check-square: Standard Plan
+&nbsp;&nbsp;:fas fa-check-square: Professional Plan
+
+--------------------------------------------------------------------------------
+
+### ia_arev_cliniko
+
+**Description**
+
+Total appointment revenue from individual appointments (As Cliniko).
+
+**Availability:** 
+&nbsp;&nbsp;:fas fa-check-square: Basic Plan
+&nbsp;&nbsp;:fas fa-check-square: Standard Plan
+&nbsp;&nbsp;:fas fa-check-square: Professional Plan
+
+--------------------------------------------------------------------------------
+
+### ia_arev_average
+
+**Description**
+
+Average appointment revenue from individual appointments.
+
+**Availability:** 
+&nbsp;&nbsp;:fas fa-check-square: Basic Plan
+&nbsp;&nbsp;:fas fa-check-square: Standard Plan
+&nbsp;&nbsp;:fas fa-check-square: Professional Plan
+
+--------------------------------------------------------------------------------
+
+### ia_arev_average_cliniko
+
+**Description**
+
+Average appointment revenue from individual appointments (As Cliniko).
 
 **Availability:** 
 &nbsp;&nbsp;:fas fa-check-square: Basic Plan
