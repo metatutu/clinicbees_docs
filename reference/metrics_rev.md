@@ -73,3 +73,42 @@ Other revenue by practitioner.
 &nbsp;&nbsp;:fas fa-check-square: Basic Plan
 &nbsp;&nbsp;:fas fa-check-square: Standard Plan
 &nbsp;&nbsp;:fas fa-check-square: Professional Plan
+
+--------------------------------------------------------------------------------
+
+### total_rev
+
+**Description**
+
+Total revenue.
+
+**Availability:** 
+&nbsp;&nbsp;:fas fa-check-square: Basic Plan
+&nbsp;&nbsp;:fas fa-check-square: Standard Plan
+&nbsp;&nbsp;:fas fa-check-square: Professional Plan
+
+--------------------------------------------------------------------------------
+
+### total_appointments
+
+**Description**
+
+Total appointments.
+
+**Availability:** 
+&nbsp;&nbsp;:fas fa-check-square: Basic Plan
+&nbsp;&nbsp;:fas fa-check-square: Standard Plan
+&nbsp;&nbsp;:fas fa-check-square: Professional Plan
+
+--------------------------------------------------------------------------------
+
+### total_service_hours
+
+**Description**
+
+Total service hours.
+
+**Availability:** 
+&nbsp;&nbsp;:fas fa-check-square: Basic Plan
+&nbsp;&nbsp;:fas fa-check-square: Standard Plan
+&nbsp;&nbsp;:fas fa-check-square: Professional Plan

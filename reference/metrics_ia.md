@@ -115,6 +115,32 @@ New patients/clients from individual appointments.
 
 --------------------------------------------------------------------------------
 
+### ia_np_rate
+
+**Description**
+
+New patients/clients rate from individual appointments.
+
+**Availability:** 
+&nbsp;&nbsp;:fas fa-check-square: Basic Plan
+&nbsp;&nbsp;:fas fa-check-square: Standard Plan
+&nbsp;&nbsp;:fas fa-check-square: Professional Plan  
+
+--------------------------------------------------------------------------------
+
+### ia_pva
+
+**Description**
+
+Patient/client visit average of individual appointments.
+
+**Availability:** 
+&nbsp;&nbsp;:fas fa-check-square: Basic Plan
+&nbsp;&nbsp;:fas fa-check-square: Standard Plan
+&nbsp;&nbsp;:fas fa-check-square: Professional Plan  
+
+--------------------------------------------------------------------------------
+
 ### ia_np_practitioner
 
 **Description**

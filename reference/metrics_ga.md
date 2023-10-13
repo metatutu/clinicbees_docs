@@ -141,6 +141,32 @@ New patients/clients from group appointments.
 
 --------------------------------------------------------------------------------
 
+### ga_np_rate
+
+**Description**
+
+New patients/clients rate from group appointments.
+
+**Availability:** 
+&nbsp;&nbsp;:fas fa-check-square: Basic Plan
+&nbsp;&nbsp;:fas fa-check-square: Standard Plan
+&nbsp;&nbsp;:fas fa-check-square: Professional Plan  
+
+--------------------------------------------------------------------------------
+
+### ga_pva
+
+**Description**
+
+Patient/client visit average of group appointments.
+
+**Availability:** 
+&nbsp;&nbsp;:fas fa-check-square: Basic Plan
+&nbsp;&nbsp;:fas fa-check-square: Standard Plan
+&nbsp;&nbsp;:fas fa-check-square: Professional Plan  
+
+--------------------------------------------------------------------------------
+
 ### ga_np_practitioner
 
 **Description**
