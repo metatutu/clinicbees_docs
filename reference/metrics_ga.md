@@ -174,8 +174,8 @@ Patient/client visit average of group appointments.
 New patients/clients of the practitioner from group appointments.
 
 **Availability:** 
-&nbsp;&nbsp;:fas fa-check-square: Basic Plan
-&nbsp;&nbsp;:fas fa-check-square: Standard Plan
+&nbsp;&nbsp;:fas fa-square: Basic Plan
+&nbsp;&nbsp;:fas fa-square: Standard Plan
 &nbsp;&nbsp;:fas fa-check-square: Professional Plan  
 
 --------------------------------------------------------------------------------
@@ -187,8 +187,8 @@ New patients/clients of the practitioner from group appointments.
 New patients/clients of the business from group appointments.
 
 **Availability:** 
-&nbsp;&nbsp;:fas fa-check-square: Basic Plan
-&nbsp;&nbsp;:fas fa-check-square: Standard Plan
+&nbsp;&nbsp;:fas fa-square: Basic Plan
+&nbsp;&nbsp;:fas fa-square: Standard Plan
 &nbsp;&nbsp;:fas fa-check-square: Professional Plan  
 
 --------------------------------------------------------------------------------
@@ -200,8 +200,8 @@ New patients/clients of the business from group appointments.
 New patients/clients of the group appointments.
 
 **Availability:** 
-&nbsp;&nbsp;:fas fa-check-square: Basic Plan
-&nbsp;&nbsp;:fas fa-check-square: Standard Plan
+&nbsp;&nbsp;:fas fa-square: Basic Plan
+&nbsp;&nbsp;:fas fa-square: Standard Plan
 &nbsp;&nbsp;:fas fa-check-square: Professional Plan  
 
 --------------------------------------------------------------------------------
@@ -213,8 +213,8 @@ New patients/clients of the group appointments.
 New patients/clients of the appointment type from group appointments.
 
 **Availability:** 
-&nbsp;&nbsp;:fas fa-check-square: Basic Plan
-&nbsp;&nbsp;:fas fa-check-square: Standard Plan
+&nbsp;&nbsp;:fas fa-square: Basic Plan
+&nbsp;&nbsp;:fas fa-square: Standard Plan
 &nbsp;&nbsp;:fas fa-check-square: Professional Plan  
 
 --------------------------------------------------------------------------------
@@ -226,8 +226,8 @@ New patients/clients of the appointment type from group appointments.
 New patients/clients of the service type from group appointments.
 
 **Availability:** 
-&nbsp;&nbsp;:fas fa-check-square: Basic Plan
-&nbsp;&nbsp;:fas fa-check-square: Standard Plan
+&nbsp;&nbsp;:fas fa-square: Basic Plan
+&nbsp;&nbsp;:fas fa-square: Standard Plan
 &nbsp;&nbsp;:fas fa-check-square: Professional Plan  
 
 --------------------------------------------------------------------------------
@@ -278,7 +278,7 @@ Service hours on group appointments.
 Appointment revenue from attended group appointments.
 
 **Availability:** 
-&nbsp;&nbsp;:fas fa-check-square: Basic Plan
+&nbsp;&nbsp;:fas fa-square: Basic Plan
 &nbsp;&nbsp;:fas fa-check-square: Standard Plan
 &nbsp;&nbsp;:fas fa-check-square: Professional Plan  
 
@@ -291,7 +291,7 @@ Appointment revenue from attended group appointments.
 Appointment revenue of products from attended group appointments.
 
 **Availability:** 
-&nbsp;&nbsp;:fas fa-check-square: Basic Plan
+&nbsp;&nbsp;:fas fa-square: Basic Plan
 &nbsp;&nbsp;:fas fa-check-square: Standard Plan
 &nbsp;&nbsp;:fas fa-check-square: Professional Plan  
 
@@ -304,7 +304,7 @@ Appointment revenue of products from attended group appointments.
 Appointment revenue of services from attended group appointments.
 
 **Availability:** 
-&nbsp;&nbsp;:fas fa-check-square: Basic Plan
+&nbsp;&nbsp;:fas fa-square: Basic Plan
 &nbsp;&nbsp;:fas fa-check-square: Standard Plan
 &nbsp;&nbsp;:fas fa-check-square: Professional Plan  
 
@@ -317,7 +317,7 @@ Appointment revenue of services from attended group appointments.
 Appointment revenue of others from attended group appointments.
 
 **Availability:** 
-&nbsp;&nbsp;:fas fa-check-square: Basic Plan
+&nbsp;&nbsp;:fas fa-square: Basic Plan
 &nbsp;&nbsp;:fas fa-check-square: Standard Plan
 &nbsp;&nbsp;:fas fa-check-square: Professional Plan  
 
@@ -330,7 +330,7 @@ Appointment revenue of others from attended group appointments.
 Appointment revenue from did not arrive group appointments.
 
 **Availability:** 
-&nbsp;&nbsp;:fas fa-check-square: Basic Plan
+&nbsp;&nbsp;:fas fa-square: Basic Plan
 &nbsp;&nbsp;:fas fa-check-square: Standard Plan
 &nbsp;&nbsp;:fas fa-check-square: Professional Plan  
 
@@ -343,7 +343,7 @@ Appointment revenue from did not arrive group appointments.
 Appointment revenue of products from did not arrive group appointments.
 
 **Availability:** 
-&nbsp;&nbsp;:fas fa-check-square: Basic Plan
+&nbsp;&nbsp;:fas fa-square: Basic Plan
 &nbsp;&nbsp;:fas fa-check-square: Standard Plan
 &nbsp;&nbsp;:fas fa-check-square: Professional Plan  
 
@@ -356,7 +356,7 @@ Appointment revenue of products from did not arrive group appointments.
 Appointment revenue of services from did not arrive group appointments.
 
 **Availability:** 
-&nbsp;&nbsp;:fas fa-check-square: Basic Plan
+&nbsp;&nbsp;:fas fa-square: Basic Plan
 &nbsp;&nbsp;:fas fa-check-square: Standard Plan
 &nbsp;&nbsp;:fas fa-check-square: Professional Plan  
 
@@ -369,7 +369,7 @@ Appointment revenue of services from did not arrive group appointments.
 Appointment revenue of others from did not arrive group appointments.
 
 **Availability:** 
-&nbsp;&nbsp;:fas fa-check-square: Basic Plan
+&nbsp;&nbsp;:fas fa-square: Basic Plan
 &nbsp;&nbsp;:fas fa-check-square: Standard Plan
 &nbsp;&nbsp;:fas fa-check-square: Professional Plan  
 
@@ -382,7 +382,7 @@ Appointment revenue of others from did not arrive group appointments.
 Appointment revenue from cancelled group appointments.
 
 **Availability:** 
-&nbsp;&nbsp;:fas fa-check-square: Basic Plan
+&nbsp;&nbsp;:fas fa-square: Basic Plan
 &nbsp;&nbsp;:fas fa-check-square: Standard Plan
 &nbsp;&nbsp;:fas fa-check-square: Professional Plan  
 
@@ -395,7 +395,7 @@ Appointment revenue from cancelled group appointments.
 Appointment revenue of products from cancelled group appointments.
 
 **Availability:** 
-&nbsp;&nbsp;:fas fa-check-square: Basic Plan
+&nbsp;&nbsp;:fas fa-square: Basic Plan
 &nbsp;&nbsp;:fas fa-check-square: Standard Plan
 &nbsp;&nbsp;:fas fa-check-square: Professional Plan  
 
@@ -408,7 +408,7 @@ Appointment revenue of products from cancelled group appointments.
 Appointment revenue of services from cancelled group appointments.
 
 **Availability:** 
-&nbsp;&nbsp;:fas fa-check-square: Basic Plan
+&nbsp;&nbsp;:fas fa-square: Basic Plan
 &nbsp;&nbsp;:fas fa-check-square: Standard Plan
 &nbsp;&nbsp;:fas fa-check-square: Professional Plan  
 
@@ -421,7 +421,7 @@ Appointment revenue of services from cancelled group appointments.
 Appointment revenue of others from cancelled group appointments.
 
 **Availability:** 
-&nbsp;&nbsp;:fas fa-check-square: Basic Plan
+&nbsp;&nbsp;:fas fa-square: Basic Plan
 &nbsp;&nbsp;:fas fa-check-square: Standard Plan
 &nbsp;&nbsp;:fas fa-check-square: Professional Plan  
 
@@ -434,7 +434,7 @@ Appointment revenue of others from cancelled group appointments.
 Appointment revenue of products from group appointments.
 
 **Availability:** 
-&nbsp;&nbsp;:fas fa-check-square: Basic Plan
+&nbsp;&nbsp;:fas fa-square: Basic Plan
 &nbsp;&nbsp;:fas fa-check-square: Standard Plan
 &nbsp;&nbsp;:fas fa-check-square: Professional Plan  
 
@@ -447,7 +447,7 @@ Appointment revenue of products from group appointments.
 Appointment revenue of services from group appointments.
 
 **Availability:** 
-&nbsp;&nbsp;:fas fa-check-square: Basic Plan
+&nbsp;&nbsp;:fas fa-square: Basic Plan
 &nbsp;&nbsp;:fas fa-check-square: Standard Plan
 &nbsp;&nbsp;:fas fa-check-square: Professional Plan  
 
@@ -460,7 +460,7 @@ Appointment revenue of services from group appointments.
 Appointment revenue of others from group appointments.
 
 **Availability:** 
-&nbsp;&nbsp;:fas fa-check-square: Basic Plan
+&nbsp;&nbsp;:fas fa-square: Basic Plan
 &nbsp;&nbsp;:fas fa-check-square: Standard Plan
 &nbsp;&nbsp;:fas fa-check-square: Professional Plan
 
@@ -473,7 +473,7 @@ Appointment revenue of others from group appointments.
 Total appointment revenue from group appointments.
 
 **Availability:** 
-&nbsp;&nbsp;:fas fa-check-square: Basic Plan
+&nbsp;&nbsp;:fas fa-square: Basic Plan
 &nbsp;&nbsp;:fas fa-check-square: Standard Plan
 &nbsp;&nbsp;:fas fa-check-square: Professional Plan
 
@@ -499,7 +499,7 @@ Total appointment revenue from group appointments (As Cliniko).
 Average appointment revenue from group appointments.
 
 **Availability:** 
-&nbsp;&nbsp;:fas fa-check-square: Basic Plan
+&nbsp;&nbsp;:fas fa-square: Basic Plan
 &nbsp;&nbsp;:fas fa-check-square: Standard Plan
 &nbsp;&nbsp;:fas fa-check-square: Professional Plan
 
@@ -514,4 +514,4 @@ Average appointment revenue from group appointments (As Cliniko).
 **Availability:** 
 &nbsp;&nbsp;:fas fa-check-square: Basic Plan
 &nbsp;&nbsp;:fas fa-check-square: Standard Plan
-&nbsp;&nbsp;:fas fa-check-square: Professional Plan  
+&nbsp;&nbsp;:fas fa-check-square: Professional Plan
