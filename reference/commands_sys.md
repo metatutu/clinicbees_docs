@@ -1,3 +1,31 @@
+### my-account
+
+**Description**
+
+Get the status of the account, so that owner could know the account subscription status and
+remain credit points in the account.
+
+This command can be called by the Owner role only.  And it could be called with **bees** directly only.
+
+**Syntax**
+```text
+my-account
+```
+
+**Availability:** 
+&nbsp;&nbsp;:far fa-square: Basic Plan
+&nbsp;&nbsp;:far fa-check-square: Standard Plan
+&nbsp;&nbsp;:far fa-check-square: Professional Plan  
+
+**Roles Permission:**
+&nbsp;&nbsp;:far fa-check-circle: Owner
+&nbsp;&nbsp;:far fa-circle: Admin
+&nbsp;&nbsp;:far fa-circle: User
+
+**Cost of Credit Points:** &nbsp;&nbsp;Free
+
+--------------------------------------------------------------------------------
+
 ### install-cliniko
 
 **Description**
@@ -24,14 +52,14 @@ install-cliniko MS********czMDExMDYxMDM3NjQ0LVA2NDhlM2ViQ05xd2ZIOHd4dFNyMTRuaU5h
 ```
 
 **Availability:** 
-&nbsp;&nbsp;:fas fa-check-square: Basic Plan
-&nbsp;&nbsp;:fas fa-check-square: Standard Plan
-&nbsp;&nbsp;:fas fa-check-square: Professional Plan  
+&nbsp;&nbsp;:far fa-check-square: Basic Plan
+&nbsp;&nbsp;:far fa-check-square: Standard Plan
+&nbsp;&nbsp;:far fa-check-square: Professional Plan  
 
 **Roles Permission:**
-&nbsp;&nbsp;:fas fa-check-circle: Owner
-&nbsp;&nbsp;:fas fa-circle: Admin
-&nbsp;&nbsp;:fas fa-circle: User
+&nbsp;&nbsp;:far fa-check-circle: Owner
+&nbsp;&nbsp;:far fa-circle: Admin
+&nbsp;&nbsp;:far fa-circle: User
 
 **Cost of Credit Points:** &nbsp;&nbsp;Free
 
@@ -51,14 +79,14 @@ health-check
 ```
 
 **Availability:** 
-&nbsp;&nbsp;:fas fa-check-square: Basic Plan
-&nbsp;&nbsp;:fas fa-check-square: Standard Plan
-&nbsp;&nbsp;:fas fa-check-square: Professional Plan  
+&nbsp;&nbsp;:far fa-check-square: Basic Plan
+&nbsp;&nbsp;:far fa-check-square: Standard Plan
+&nbsp;&nbsp;:far fa-check-square: Professional Plan  
 
 **Roles Permission:**
-&nbsp;&nbsp;:fas fa-check-circle: Owner
-&nbsp;&nbsp;:fas fa-check-circle: Admin
-&nbsp;&nbsp;:fas fa-check-circle: User
+&nbsp;&nbsp;:far fa-check-circle: Owner
+&nbsp;&nbsp;:far fa-check-circle: Admin
+&nbsp;&nbsp;:far fa-check-circle: User
 
 **Cost of Credit Points:** &nbsp;&nbsp;Free
 
@@ -76,14 +104,14 @@ list-users
 ```
 
 **Availability:** 
-&nbsp;&nbsp;:fas fa-check-square: Basic Plan
-&nbsp;&nbsp;:fas fa-check-square: Standard Plan
-&nbsp;&nbsp;:fas fa-check-square: Professional Plan  
+&nbsp;&nbsp;:far fa-check-square: Basic Plan
+&nbsp;&nbsp;:far fa-check-square: Standard Plan
+&nbsp;&nbsp;:far fa-check-square: Professional Plan  
 
 **Roles Permission:**
-&nbsp;&nbsp;:fas fa-check-circle: Owner
-&nbsp;&nbsp;:fas fa-check-circle: Admin
-&nbsp;&nbsp;:fas fa-check-circle: User
+&nbsp;&nbsp;:far fa-check-circle: Owner
+&nbsp;&nbsp;:far fa-check-circle: Admin
+&nbsp;&nbsp;:far fa-check-circle: User
 
 
 **Cost of Credit Points:** &nbsp;&nbsp;Free
@@ -107,14 +135,14 @@ assign-admin @Dennis @Anna
 ```
 
 **Availability:** 
-&nbsp;&nbsp;:fas fa-check-square: Basic Plan
-&nbsp;&nbsp;:fas fa-check-square: Standard Plan
-&nbsp;&nbsp;:fas fa-check-square: Professional Plan  
+&nbsp;&nbsp;:far fa-check-square: Basic Plan
+&nbsp;&nbsp;:far fa-check-square: Standard Plan
+&nbsp;&nbsp;:far fa-check-square: Professional Plan  
 
 **Roles Permission:**
-&nbsp;&nbsp;:fas fa-check-circle: Owner
-&nbsp;&nbsp;:fas fa-circle: Admin
-&nbsp;&nbsp;:fas fa-circle: User
+&nbsp;&nbsp;:far fa-check-circle: Owner
+&nbsp;&nbsp;:far fa-circle: Admin
+&nbsp;&nbsp;:far fa-circle: User
 
 **Cost of Credit Points:** &nbsp;&nbsp;Free
 
@@ -137,14 +165,14 @@ revoke-admin @Dennis @Anna
 ```
 
 **Availability:** 
-&nbsp;&nbsp;:fas fa-check-square: Basic Plan
-&nbsp;&nbsp;:fas fa-check-square: Standard Plan
-&nbsp;&nbsp;:fas fa-check-square: Professional Plan  
+&nbsp;&nbsp;:far fa-check-square: Basic Plan
+&nbsp;&nbsp;:far fa-check-square: Standard Plan
+&nbsp;&nbsp;:far fa-check-square: Professional Plan  
 
 **Roles Permission:**
-&nbsp;&nbsp;:fas fa-check-circle: Owner
-&nbsp;&nbsp;:fas fa-circle: Admin
-&nbsp;&nbsp;:fas fa-circle: User
+&nbsp;&nbsp;:far fa-check-circle: Owner
+&nbsp;&nbsp;:far fa-circle: Admin
+&nbsp;&nbsp;:far fa-circle: User
 
 **Cost of Credit Points:** &nbsp;&nbsp;Free
 

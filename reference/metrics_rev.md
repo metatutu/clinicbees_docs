@@ -5,9 +5,9 @@
 Revenue of products.
 
 **Availability:** 
-&nbsp;&nbsp;:fas fa-check-square: Basic Plan
-&nbsp;&nbsp;:fas fa-check-square: Standard Plan
-&nbsp;&nbsp;:fas fa-check-square: Professional Plan  
+&nbsp;&nbsp;:far fa-check-square: Basic Plan
+&nbsp;&nbsp;:far fa-check-square: Standard Plan
+&nbsp;&nbsp;:far fa-check-square: Professional Plan  
 
 --------------------------------------------------------------------------------
 
@@ -18,9 +18,9 @@ Revenue of products.
 Revenue of services.
 
 **Availability:** 
-&nbsp;&nbsp;:fas fa-check-square: Basic Plan
-&nbsp;&nbsp;:fas fa-check-square: Standard Plan
-&nbsp;&nbsp;:fas fa-check-square: Professional Plan  
+&nbsp;&nbsp;:far fa-check-square: Basic Plan
+&nbsp;&nbsp;:far fa-check-square: Standard Plan
+&nbsp;&nbsp;:far fa-check-square: Professional Plan  
 
 --------------------------------------------------------------------------------
 
@@ -31,9 +31,9 @@ Revenue of services.
 Revenue of others.
 
 **Availability:** 
-&nbsp;&nbsp;:fas fa-check-square: Basic Plan
-&nbsp;&nbsp;:fas fa-check-square: Standard Plan
-&nbsp;&nbsp;:fas fa-check-square: Professional Plan  
+&nbsp;&nbsp;:far fa-check-square: Basic Plan
+&nbsp;&nbsp;:far fa-check-square: Standard Plan
+&nbsp;&nbsp;:far fa-check-square: Professional Plan  
 
 --------------------------------------------------------------------------------
 
@@ -44,9 +44,9 @@ Revenue of others.
 Revenue not linked with practitioner.
 
 **Availability:** 
-&nbsp;&nbsp;:fas fa-check-square: Basic Plan
-&nbsp;&nbsp;:fas fa-check-square: Standard Plan
-&nbsp;&nbsp;:fas fa-check-square: Professional Plan  
+&nbsp;&nbsp;:far fa-check-square: Basic Plan
+&nbsp;&nbsp;:far fa-check-square: Standard Plan
+&nbsp;&nbsp;:far fa-check-square: Professional Plan  
 
 --------------------------------------------------------------------------------
 
@@ -57,9 +57,9 @@ Revenue not linked with practitioner.
 Revenue from appointments.
 
 **Availability:** 
-&nbsp;&nbsp;:fas fa-check-square: Basic Plan
-&nbsp;&nbsp;:fas fa-check-square: Standard Plan
-&nbsp;&nbsp;:fas fa-check-square: Professional Plan  
+&nbsp;&nbsp;:far fa-check-square: Basic Plan
+&nbsp;&nbsp;:far fa-check-square: Standard Plan
+&nbsp;&nbsp;:far fa-check-square: Professional Plan  
 
 --------------------------------------------------------------------------------
 
@@ -70,9 +70,9 @@ Revenue from appointments.
 Other revenue by practitioner.
 
 **Availability:** 
-&nbsp;&nbsp;:fas fa-check-square: Basic Plan
-&nbsp;&nbsp;:fas fa-check-square: Standard Plan
-&nbsp;&nbsp;:fas fa-check-square: Professional Plan
+&nbsp;&nbsp;:far fa-check-square: Basic Plan
+&nbsp;&nbsp;:far fa-check-square: Standard Plan
+&nbsp;&nbsp;:far fa-check-square: Professional Plan
 
 --------------------------------------------------------------------------------
 
@@ -83,9 +83,9 @@ Other revenue by practitioner.
 Total revenue.
 
 **Availability:** 
-&nbsp;&nbsp;:fas fa-check-square: Basic Plan
-&nbsp;&nbsp;:fas fa-check-square: Standard Plan
-&nbsp;&nbsp;:fas fa-check-square: Professional Plan
+&nbsp;&nbsp;:far fa-check-square: Basic Plan
+&nbsp;&nbsp;:far fa-check-square: Standard Plan
+&nbsp;&nbsp;:far fa-check-square: Professional Plan
 
 --------------------------------------------------------------------------------
 
@@ -96,9 +96,9 @@ Total revenue.
 Total appointments.
 
 **Availability:** 
-&nbsp;&nbsp;:fas fa-check-square: Basic Plan
-&nbsp;&nbsp;:fas fa-check-square: Standard Plan
-&nbsp;&nbsp;:fas fa-check-square: Professional Plan
+&nbsp;&nbsp;:far fa-check-square: Basic Plan
+&nbsp;&nbsp;:far fa-check-square: Standard Plan
+&nbsp;&nbsp;:far fa-check-square: Professional Plan
 
 --------------------------------------------------------------------------------
 
@@ -109,6 +109,6 @@ Total appointments.
 Total service hours.
 
 **Availability:** 
-&nbsp;&nbsp;:fas fa-check-square: Basic Plan
-&nbsp;&nbsp;:fas fa-check-square: Standard Plan
-&nbsp;&nbsp;:fas fa-check-square: Professional Plan
+&nbsp;&nbsp;:far fa-check-square: Basic Plan
+&nbsp;&nbsp;:far fa-check-square: Standard Plan
+&nbsp;&nbsp;:far fa-check-square: Professional Plan

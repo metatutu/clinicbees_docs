@@ -11,16 +11,16 @@
 ```
 
 **Availability:** 
-&nbsp;&nbsp;:fas fa-check-square: Basic Plan
-&nbsp;&nbsp;:fas fa-check-square: Standard Plan
-&nbsp;&nbsp;:fas fa-check-square: Professional Plan  
+&nbsp;&nbsp;:far fa-square: Basic Plan
+&nbsp;&nbsp;:far fa-check-square: Standard Plan
+&nbsp;&nbsp;:far fa-check-square: Professional Plan  
 
 **Roles Permission:**
-&nbsp;&nbsp;:fas fa-check-circle: Owner
-&nbsp;&nbsp;:fas fa-circle: Admin
-&nbsp;&nbsp;:fas fa-circle: User
+&nbsp;&nbsp;:far fa-check-circle: Owner
+&nbsp;&nbsp;:far fa-circle: Admin
+&nbsp;&nbsp;:far fa-circle: User
 
-**Cost of Credit Points:** &nbsp;&nbsp;Free
+**Cost of Credit Points:** &nbsp;&nbsp;Free | :fas fa-cart-shopping: 5 credit points
 
 --------------------------------------------------------------------------------
 
@@ -45,14 +45,14 @@ list-practitioners all
 ```
 
 **Availability:** 
-&nbsp;&nbsp;:fas fa-check-square: Basic Plan
-&nbsp;&nbsp;:fas fa-check-square: Standard Plan
-&nbsp;&nbsp;:fas fa-check-square: Professional Plan  
+&nbsp;&nbsp;:far fa-check-square: Basic Plan
+&nbsp;&nbsp;:far fa-check-square: Standard Plan
+&nbsp;&nbsp;:far fa-check-square: Professional Plan  
 
 **Roles Permission:**
-&nbsp;&nbsp;:fas fa-check-circle: Owner
-&nbsp;&nbsp;:fas fa-check-circle: Admin
-&nbsp;&nbsp;:fas fa-check-circle: User
+&nbsp;&nbsp;:far fa-check-circle: Owner
+&nbsp;&nbsp;:far fa-check-circle: Admin
+&nbsp;&nbsp;:far fa-check-circle: User
 
 **Cost of Credit Points:** &nbsp;&nbsp;Free
 
@@ -101,14 +101,14 @@ map-practitioner Jackie Newman=
 ```
 
 **Availability:** 
-&nbsp;&nbsp;:fas fa-check-square: Basic Plan
-&nbsp;&nbsp;:fas fa-check-square: Standard Plan
-&nbsp;&nbsp;:fas fa-check-square: Professional Plan  
+&nbsp;&nbsp;:far fa-check-square: Basic Plan
+&nbsp;&nbsp;:far fa-check-square: Standard Plan
+&nbsp;&nbsp;:far fa-check-square: Professional Plan  
 
 **Roles Permission:**
-&nbsp;&nbsp;:fas fa-check-circle: Owner
-&nbsp;&nbsp;:fas fa-check-circle: Admin
-&nbsp;&nbsp;:fas fa-circle: User
+&nbsp;&nbsp;:far fa-check-circle: Owner
+&nbsp;&nbsp;:far fa-check-circle: Admin
+&nbsp;&nbsp;:far fa-circle: User
 
 **Cost of Credit Points:** &nbsp;&nbsp;Free
 
@@ -131,14 +131,14 @@ show-focus
 ```
 
 **Availability:** 
-&nbsp;&nbsp;:fas fa-check-square: Basic Plan
-&nbsp;&nbsp;:fas fa-check-square: Standard Plan
-&nbsp;&nbsp;:fas fa-check-square: Professional Plan  
+&nbsp;&nbsp;:far fa-check-square: Basic Plan
+&nbsp;&nbsp;:far fa-check-square: Standard Plan
+&nbsp;&nbsp;:far fa-check-square: Professional Plan  
 
 **Roles Permission:**
-&nbsp;&nbsp;:fas fa-check-circle: Owner
-&nbsp;&nbsp;:fas fa-check-circle: Admin
-&nbsp;&nbsp;:fas fa-check-circle: User
+&nbsp;&nbsp;:far fa-check-circle: Owner
+&nbsp;&nbsp;:far fa-check-circle: Admin
+&nbsp;&nbsp;:far fa-check-circle: User
 
 **Cost of Credit Points:** &nbsp;&nbsp;Free
 
@@ -174,14 +174,14 @@ add-focus ia_arrived, ia_revenue from all active practitioners
 ```
 
 **Availability:** 
-&nbsp;&nbsp;:fas fa-check-square: Basic Plan
-&nbsp;&nbsp;:fas fa-check-square: Standard Plan
-&nbsp;&nbsp;:fas fa-check-square: Professional Plan  
+&nbsp;&nbsp;:far fa-check-square: Basic Plan
+&nbsp;&nbsp;:far fa-check-square: Standard Plan
+&nbsp;&nbsp;:far fa-check-square: Professional Plan  
 
 **Roles Permission:**
-&nbsp;&nbsp;:fas fa-check-circle: Owner
-&nbsp;&nbsp;:fas fa-check-circle: Admin
-&nbsp;&nbsp;:fas fa-circle: User
+&nbsp;&nbsp;:far fa-check-circle: Owner
+&nbsp;&nbsp;:far fa-check-circle: Admin
+&nbsp;&nbsp;:far fa-circle: User
 
 **Cost of Credit Points:** &nbsp;&nbsp;Free
 
@@ -213,14 +213,14 @@ remove-focus all inactive practitioners
 ```
 
 **Availability:** 
-&nbsp;&nbsp;:fas fa-check-square: Basic Plan
-&nbsp;&nbsp;:fas fa-check-square: Standard Plan
-&nbsp;&nbsp;:fas fa-check-square: Professional Plan  
+&nbsp;&nbsp;:far fa-check-square: Basic Plan
+&nbsp;&nbsp;:far fa-check-square: Standard Plan
+&nbsp;&nbsp;:far fa-check-square: Professional Plan  
 
 **Roles Permission:**
-&nbsp;&nbsp;:fas fa-check-circle: Owner
-&nbsp;&nbsp;:fas fa-check-circle: Admin
-&nbsp;&nbsp;:fas fa-circle: User
+&nbsp;&nbsp;:far fa-check-circle: Owner
+&nbsp;&nbsp;:far fa-check-circle: Admin
+&nbsp;&nbsp;:far fa-circle: User
 
 **Cost of Credit Points:** &nbsp;&nbsp;Free
 
@@ -260,14 +260,14 @@ Please take the training course.
 ```
 
 **Availability:** 
-&nbsp;&nbsp;:fas fa-check-square: Basic Plan
-&nbsp;&nbsp;:fas fa-check-square: Standard Plan
-&nbsp;&nbsp;:fas fa-check-square: Professional Plan  
+&nbsp;&nbsp;:fa-regular fa-check-square: Basic Plan
+&nbsp;&nbsp;:fa-regular fa-check-square: Standard Plan
+&nbsp;&nbsp;:fa-regular fa-check-square: Professional Plan  
 
 **Roles Permission:**
-&nbsp;&nbsp;:fas fa-check-circle: Owner
-&nbsp;&nbsp;:fas fa-check-circle: Admin
-&nbsp;&nbsp;:fas fa-check-circle: User
+&nbsp;&nbsp;:fa-regular fa-check-circle: Owner
+&nbsp;&nbsp;:fa-regular fa-check-circle: Admin
+&nbsp;&nbsp;:fa-regular fa-check-circle: User
 
 **Cost of Credit Points:** &nbsp;&nbsp;Free
 
@@ -285,13 +285,13 @@ my-tasks
 ```
 
 **Availability:** 
-&nbsp;&nbsp;:fas fa-check-square: Basic Plan
-&nbsp;&nbsp;:fas fa-check-square: Standard Plan
-&nbsp;&nbsp;:fas fa-check-square: Professional Plan  
+&nbsp;&nbsp;:far fa-check-square: Basic Plan
+&nbsp;&nbsp;:far fa-check-square: Standard Plan
+&nbsp;&nbsp;:far fa-check-square: Professional Plan  
 
 **Roles Permission:**
-&nbsp;&nbsp;:fas fa-check-circle: Owner
-&nbsp;&nbsp;:fas fa-check-circle: Admin
-&nbsp;&nbsp;:fas fa-check-circle: User
+&nbsp;&nbsp;:far fa-check-circle: Owner
+&nbsp;&nbsp;:far fa-check-circle: Admin
+&nbsp;&nbsp;:far fa-check-circle: User
 
 **Cost of Credit Points:** &nbsp;&nbsp;Free

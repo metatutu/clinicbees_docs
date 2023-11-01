@@ -5,8 +5,8 @@ This is the procedure on how to create _**Clinic Bees**_ app on your Slack works
 so that the app could work on your workspace.
 
 This has to be done by the **Primary Workspace Owner** of your Slack workspace according
-to Slack's design.
-
+to Slack's rule.  It will take about 15 minutes to complete all the steps if you follow
+up the instructions carefully.
 
 
 ### Step 1. Create new app
@@ -116,7 +116,21 @@ Simply upload the icon image and set it up according to Slack's instruction.
 You may use **Clinic Bees** default logo as below after you saved it before you upload it to Slack.
 ![0](images/clinicbees_slack_logo.png)
 
-### Step 4. Create OAuth token
+### Step 4. Enable direct message
+
+1. Click **Features/App Home** from the left sidebar.
+
+2. Scroll down the page to **Your App's Presence in Slack**, turn on **Always Show My Bot as Online**.
+![1](images/apphome-1.png)
+
+3. Scroll down the page to **Show Tabs**, check **Allow users to send Slash commands and messages from the message tab**.
+![2](images/apphome-2.png)
+
+>[!TIP]
+If Slack user would still not be able to send message directly to **bees** with below message on Slack client app, simply restart the Slack client app.
+![3](images/apphome-3.png)
+
+### Step 5. Create OAuth token
 
 >[!TIP]
 OAuth token is one of 2 tokens Clinic Bees needs to get so that it could work with your workspace.

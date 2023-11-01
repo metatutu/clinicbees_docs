@@ -9,8 +9,8 @@ For example:
 ```text
 @bees list-practitioners
 ```
-Or it is a message sent to "bees" directly on Slack.
-When the command is sent directly to "bees", the tag is optional.
+Or it is a message sent to **bees** directly on Slack.
+When the command is sent directly to **bees**, the tag is optional.
 
 For example:
 ```text
