@@ -95,6 +95,25 @@ For each command, it typically includes below parts:
   You will get error message if you are sending a command not available for your role.
   (Owner/Admin/User)
 
+* **Call Place**
+  
+  This is to specify where you could send command to.
+
+  Some commands could be specifically called in direct message to _**bees**_ (as below) for security or privacy consideration.
+  For example, when installing cliniko or checking the account status, these commands could be called
+  in direct message only.
+
+  ![0](../images/directmessage.png)
+
+  Some commands are designed to be called in public channels.  For example, as focused performance management
+  is based on the Slack public channels, so related commands could be sent in public channels only.
+
+>[!TIP]
+Some commands could be called in both direct message or public channel, but please be noted
+that the tagged user will not be notified in direct message.  So we stronly suggest you to send commands
+in public channels for most of cases, so that actions could be transparent and result could be shared
+with your teammates.
+
 * **Cost of Credit Points**
 
   This is the credit points to be consumed if a command is successfully executed.

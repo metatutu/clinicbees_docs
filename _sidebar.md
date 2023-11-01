@@ -5,11 +5,12 @@
 
 * **REFERENCE**
   * Commands
-    * [Overview](reference/commands)
-    * [System Management](reference/commands_sys)
-    * [Basic Settings](reference/commands_config)
+    * [Overview](reference/commands_0)
+    * [Administration](reference/commands_admin)
+    * [Focused Performance Management](reference/commands_focus.md)
+    * [Task Management](reference/commands_task.md)
   * Metrics
-    * [Overview](reference/metrics)
+    * [Overview](reference/metrics_0)
     * [Individaul Appointments](reference/metrics_ia.md)
     * [Group Appointments](reference/metrics_ga.md)
     * [Revenue](reference/metrics_rev.md)
