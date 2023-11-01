@@ -65,7 +65,7 @@ any response from **bees**, please contact customer support.
 ## How to read
 
 The documentation of commands are indexed with the `<command keyword>` and grouped by
-the purpose categories.
+the functionalities.
 
 For each command, it typically includes below parts:
 
@@ -81,7 +81,7 @@ For each command, it typically includes below parts:
 
 * **Example**
 
-  Example of the command.
+  Example(s) of the command.
 
 * **Availability**
 

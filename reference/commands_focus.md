@@ -130,8 +130,8 @@ Get the report of focused practitioners and metrics in the current channel and
 show the performance in specified period with group option.
 
 The period is essentially specified with a start date and end date in ISO 8601 form as YYYY-MM-DD.
-For example, "2022-01-01 to 2022-12-31".  However, we supports much wide way to specify the period
-with the semi-natual language system.  For example, you may use "last 4 weeks", "last 12 months",
+For example, "2022-01-01 to 2022-12-31".  However, we supports much wider ways to specify the period
+with the semi-natural language system.  For example, you may use "last 4 weeks", "last 12 months",
 "year to date", "YTD", etc.  You could explore it by yourself to figure out the most comfortable
 expression you like.
 
