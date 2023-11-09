@@ -115,6 +115,18 @@ Group appointment attendance rate.
 
 --------------------------------------------------------------------------------
 
+### ga_util_rate
+
+**Description**
+
+Group appointment utilization rate.
+
+**Availability:** 
+&nbsp;&nbsp;:far fa-check-square: Basic Plan
+&nbsp;&nbsp;:far fa-check-square: Standard Plan
+&nbsp;&nbsp;:far fa-check-square: Professional Plan  
+
+--------------------------------------------------------------------------------
 ### ga_patients
 
 **Description**
