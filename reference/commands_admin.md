@@ -73,6 +73,73 @@ install-cliniko MS********czMDExMDYxMDM3NjQ0LVA2NDhlM2ViQ05xd2ZIOHd4dFNyMTRuaU5h
 
 --------------------------------------------------------------------------------
 
+### enable-integration
+
+**Description**
+
+Enable integration interface, so that 3rd party BI systems (such as PowerBI, Tableau, etc.)
+could be linked.
+
+Upon the successful execution of the command, it will provide the database connection information,
+you may simply use those information in your BI system to link to your practice data sorted by 
+_**Clinic Bees**_ for further data applications.
+
+**Syntax**
+```text
+enable-integration
+```
+
+**Availability:** 
+&nbsp;&nbsp;:far fa-square: Basic Plan
+&nbsp;&nbsp;:far fa-square: Standard Plan
+&nbsp;&nbsp;:far fa-check-square: Professional Plan  
+
+**Roles Permission:**
+&nbsp;&nbsp;:far fa-check-circle: Owner
+&nbsp;&nbsp;:far fa-circle: Admin
+&nbsp;&nbsp;:far fa-circle: User
+
+**Call Place:**
+&nbsp;&nbsp;:fas fa-check-circle: Direct Message (to _**bees**_)
+&nbsp;&nbsp;:fas fa-circle: Public channels
+
+**Cost of Credit Points:** &nbsp;&nbsp;Free
+
+--------------------------------------------------------------------------------
+
+### disable-integration
+
+**Description**
+
+Disable the integration interface.
+
+When you no longer need to access data for security consideration, or your want to
+reset the database connection or refresh the data schema (after you customized data for integration),
+you may call this command.
+
+**Syntax**
+```text
+disable-integration
+```
+
+**Availability:** 
+&nbsp;&nbsp;:far fa-square: Basic Plan
+&nbsp;&nbsp;:far fa-square: Standard Plan
+&nbsp;&nbsp;:far fa-check-square: Professional Plan  
+
+**Roles Permission:**
+&nbsp;&nbsp;:far fa-check-circle: Owner
+&nbsp;&nbsp;:far fa-circle: Admin
+&nbsp;&nbsp;:far fa-circle: User
+
+**Call Place:**
+&nbsp;&nbsp;:fas fa-check-circle: Direct Message (to _**bees**_)
+&nbsp;&nbsp;:fas fa-circle: Public channels
+
+**Cost of Credit Points:** &nbsp;&nbsp;Free
+
+--------------------------------------------------------------------------------
+
 ### health-check
 
 Run a system diagnostics to check the system status.

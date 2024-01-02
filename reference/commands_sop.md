@@ -1,45 +1,44 @@
-### assign-task
+### assign-sop
 
 **Description**
 
-Create a task and assign task to one or multiple users.  _**Clinic Bees**_ will help to follow up the
-execution of the task assignment with each individuals.
 
-You could describe the task in whatever you'd like.  The message you sent will be kept as is, and
-it will become the "home" of this task.  When task assignee fininshed the task, they need to reply
-"Done" to close the action.  The timestamp of their reply will help to track the task execution.
+Create a SOP and assign the SOP to one or multiple users.  _**Clinic Bees**_ will help to follow up
+the execution of the SOP.
 
-You may also cancel the task by replying it with "Cancel".  You may also remind those not yet
-taken action by replying "Remind", and we will tag the right users for attention.
+You could describe the SOP in message and the message will be kept as is and it becomes the "home"
+of the SOP for reference.  Assignee will be kept reminded on compliance of the SOP in their daily
+work.
 
-The first line in task description will be used for summary of the task to be listed in individual's
-task list.
+You may add or remove assignees according to the instruction after you successfully executed this
+command or close the SOP if it's no longer needed.
 
 >[!NOTE] 
 >This commend could be called in public channel only to make sure all assignees will be able to access
-it.
+it.  And it could be called by Owner or Admin only.
 
 **Syntax**
 ```text
-assign-task <task description>
+assign-sop <SOP description>
 ```
 
 **Example**
 ```text
-assign-task
-Please take the training course.
+assign-sop
+NDIS Practice Standards
+https://www.ndiscommission.gov.au/providers/registered-ndis-providers/provider-obligations-and-requirements/ndis-practice-standards
 @Bella @Hedi
 ```
 
 **Availability:** 
-&nbsp;&nbsp;:fa-regular fa-check-square: Basic Plan
-&nbsp;&nbsp;:fa-regular fa-check-square: Standard Plan
-&nbsp;&nbsp;:fa-regular fa-check-square: Professional Plan  
+&nbsp;&nbsp;:far fa-check-square: Basic Plan
+&nbsp;&nbsp;:far fa-check-square: Standard Plan
+&nbsp;&nbsp;:far fa-check-square: Professional Plan  
 
 **Roles Permission:**
-&nbsp;&nbsp;:fa-regular fa-check-circle: Owner
-&nbsp;&nbsp;:fa-regular fa-check-circle: Admin
-&nbsp;&nbsp;:fa-regular fa-check-circle: User
+&nbsp;&nbsp;:far fa-check-circle: Owner
+&nbsp;&nbsp;:far fa-check-circle: Admin
+&nbsp;&nbsp;:far fa-circle: User
 
 **Call Place:**
 &nbsp;&nbsp;:fas fa-circle: Direct Message (to _**bees**_)
@@ -49,15 +48,15 @@ Please take the training course.
 
 --------------------------------------------------------------------------------
 
-### my-tasks
+### my-sop
 
 **Description**
 
-List all the open tasks assigned or created.
+List all the open SOP assigned or created.
 
 **Syntax**
 ```text
-my-tasks
+my-sop
 ```
 
 **Availability:** 
@@ -78,23 +77,23 @@ my-tasks
 
 --------------------------------------------------------------------------------
 
-### cancel-task
+### cancel-sop
 
 **Description**
 
-Cancel a task with specific ref id.
-It's typically to be used to handle some case that a task was not smoothly removed
+Cancel a SOP with specific ref id.
+It's typically to be used to handle some case that a SOP was not smoothly removed
 when it's deleted but it's still assigned to some user.  For example, the user who
-created the task is deleted from Slack.
+created the SOP is deleted from Slack.
 This command could be called by Owner or Admin only.
 
 **Syntax**
 ```text
-cancel-task <ref id>
+cancel-sop <ref id>
 ```
 **Example**
 ```text
-cancel-task 7
+cancel-sop 9
 ```
 
 **Availability:** 

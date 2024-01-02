@@ -184,3 +184,90 @@ show-performance Daily report of MTD.
 **Cost of Credit Points:** &nbsp;&nbsp;:fas fa-cart-shopping: 5 credit points
 
 --------------------------------------------------------------------------------
+
+### good-morning
+
+**Description**
+
+Get the daily preview report of a practitioner.
+Daily preview report provides the overview of appointments and tasks of the day as
+well as the hints and SOP to support individual to complete work.
+
+>[!NOTE]
+We strongly suggest to have practitioners to call command to query their own daily report
+by themselves.  If you have to call command by Admin, make sure it's called in the channel
+and the practitioner is in the channel focus, so that the query is transparent.
+
+**Syntax**
+```text
+good-morning
+```
+
+**Example**
+```text
+# typically, practitioner query own report of the day
+good-morning
+
+# optionally, could specify practitioner and/or date
+good-morning @Bella 2023-12-12
+```
+
+**Availability:** 
+&nbsp;&nbsp;:far fa-check-square: Basic Plan
+&nbsp;&nbsp;:far fa-check-square: Standard Plan
+&nbsp;&nbsp;:far fa-check-square: Professional Plan  
+
+**Roles Permission:**
+&nbsp;&nbsp;:far fa-check-circle: Owner
+&nbsp;&nbsp;:far fa-check-circle: Admin
+&nbsp;&nbsp;:far fa-check-circle: User
+
+**Call Place:**
+&nbsp;&nbsp;:fas fa-check-circle: Direct Message (to _**bees**_)
+&nbsp;&nbsp;:fas fa-check-circle: Public channels
+
+**Cost of Credit Points:** &nbsp;&nbsp;:fas fa-cart-shopping: 1 credit point
+
+--------------------------------------------------------------------------------
+
+### good-night
+
+**Description**
+
+Get the daily review report of a practitioner.
+Daily review report provides the summary of appointments completed with hints.
+
+>[!NOTE]
+We strongly suggest to have practitioners to call command to query their own daily report
+by themselves.  If you have to call command by Admin, make sure it's called in the channel
+and the practitioner is in the channel focus, so that the query is transparent.
+
+**Syntax**
+```text
+good-night
+```
+
+**Example**
+```text
+# typically, practitioner query own report of the day
+good-night
+
+# optionally, could specify practitioner and/or date
+good-night @Bella 2023-12-12
+```
+
+**Availability:** 
+&nbsp;&nbsp;:far fa-check-square: Basic Plan
+&nbsp;&nbsp;:far fa-check-square: Standard Plan
+&nbsp;&nbsp;:far fa-check-square: Professional Plan  
+
+**Roles Permission:**
+&nbsp;&nbsp;:far fa-check-circle: Owner
+&nbsp;&nbsp;:far fa-check-circle: Admin
+&nbsp;&nbsp;:far fa-check-circle: User
+
+**Call Place:**
+&nbsp;&nbsp;:fas fa-check-circle: Direct Message (to _**bees**_)
+&nbsp;&nbsp;:fas fa-check-circle: Public channels
+
+**Cost of Credit Points:** &nbsp;&nbsp;:fas fa-cart-shopping: 1 credit point
