@@ -17,4 +17,8 @@
     * [Group Appointments](reference/metrics_ga.md)
     * [Revenue](reference/metrics_rev.md)
 
+* **TERMS OF SERVICE**
+  * [Agreement](/terms.md)
+  * [FAQ](/faq.md)
+
 
