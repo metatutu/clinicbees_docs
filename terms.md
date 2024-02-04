@@ -30,6 +30,7 @@ Please read these Terms carefully before using the System. By accessing and usin
 * Setup Fee: You will be charged a one-time setup fee for initial configuration and deployment of the System.
 * Monthly Service Fee: You will be charged a monthly fee to keep the System operational and receive ongoing support.
 * Credit Points: Additional usage charges within the System may apply and can be paid for using Credit Points. You can purchase Credit Points in advance through various methods offered by Clinic Bees.
+* Handling Fee: 20% handling fee will be charged on refunding of service fee or credit points.  Setup fee is not refundable.
 * Payment Terms: All fees are due upon invoice and are payable in the currency specified by Wooloo Studio. Late payments may be subject to late fees and penalties.
 
 **4. Term and Termination**

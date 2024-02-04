@@ -15,7 +15,7 @@ to get online support service.  But you need to cover all extra cost on Slack.
 **Q: Can I cancel the service?**
 
 A: Yes, during your subscription of the Clinic Bees service, you may cancel it at any time.
-We will refund the month service fee on a pro-rated basis.  
+We will refund the month service fee on a pro-rated basis with a 20% handling fee.  
 For the purchased credit points, we will refund the remaining ones after deducting a 20%
 handling fee.  The credit points from monthly subscription or rewarding programs are not
 refundable.

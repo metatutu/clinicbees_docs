@@ -102,7 +102,7 @@ Some functions need to be paid with credit points.  In your monthly subscription
 the credit points for typical usage.  If you need more, you may buy extra credit points.
 Most of functions are free to be used.
 
-![Pricing](images/pricing.png)
+![Pricing](images/pricing_20240101.png)
 
 **Clinic Bees** runs on an isolated, secure system built just for your team and business. 
 This secure setup requires an initial setup fee to ensure your data is always safe.
